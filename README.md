@@ -1,5 +1,5 @@
-# Schema, vecka 22
-###### Backend med Node.js, vecka 3 av 5
+# Schema, vecka 37
+###### Utveckling och driftsättning i molnmiljö, vecka 3 av 6
 
 ## Introduktion
 
