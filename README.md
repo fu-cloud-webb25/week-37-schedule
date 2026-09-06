@@ -20,7 +20,7 @@ Vi lär oss hur NoSQL-databaser fungerar, hur data modelleras i DynamoDB och hur
 
 ### Presentationer
 
-* 01 - []()
+* 01 - [DynamoDB](https://docs.google.com/presentation/d/1BdX0buloq5e0LHNygL33G2Rexn0pkmlB/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 
 ### Inspelade föreläsningar
 
@@ -28,15 +28,15 @@ Vi lär oss hur NoSQL-databaser fungerar, hur data modelleras i DynamoDB och hur
 
 ### Lektionsrepon
 
-* []()
+* [7 sept]()
 
 ### Filmer
 
 
 ### Länkar
 
-* []()
+* [DynamoDB Dokumentation](https://docs.aws.amazon.com/dynamodb/)
 
 ### Övningar 
-
+* [DynamoDB Bootcamp](https://github.com/fu-cloud-webb25/week-37-exercise-dynamodb-bootcamp)
 
