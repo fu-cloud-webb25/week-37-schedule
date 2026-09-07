@@ -25,6 +25,7 @@ Vi lär oss hur NoSQL-databaser fungerar, hur data modelleras i DynamoDB och hur
 ### Inspelade föreläsningar
 
 * [DynamoDB intro, 7 sept](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/IQAfoKj5tjiMRK-WlCU53Tv1AdNwdgpBoapBejZ0_WZk6Ms?e=J0hYKX)
+* [DynamoDB TodoAPI del 1, 7 sept](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/IQByeOECbJ_7S51Y7EDxwlE4AZA3_qabVymcjIYNDscX9sI?e=IMIQjR)
 
 ### Lektionsrepon
 
