@@ -24,11 +24,11 @@ Vi lär oss hur NoSQL-databaser fungerar, hur data modelleras i DynamoDB och hur
 
 ### Inspelade föreläsningar
 
-* []()
+* [DynamoDB intro, 7 sept](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/IQAfoKj5tjiMRK-WlCU53Tv1AdNwdgpBoapBejZ0_WZk6Ms?e=J0hYKX)
 
 ### Lektionsrepon
 
-* [7 sept]()
+* [7 sept](https://github.com/fu-cloud-webb25/week-37-lecture-7-sept)
 
 ### Filmer
 
