@@ -31,6 +31,7 @@ Vi lär oss hur NoSQL-databaser fungerar, hur data modelleras i DynamoDB och hur
 ### Lektionsrepon
 
 * [7 sept](https://github.com/fu-cloud-webb25/week-37-lecture-7-sept)
+* [9 sept](https://github.com/fu-cloud-webb25/week-37-lecture-9-sept)
 
 ### Filmer
 
